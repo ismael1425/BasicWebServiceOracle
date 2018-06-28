@@ -1,0 +1,6 @@
+com\ibm\service\config.class
+com\ibm\service\UserService.class
+com\ibm\dao\Access.class
+com\ibm\dao\Database.class
+com\ibm\dao\UserDAO.class
+com\ibm\model\User.class
